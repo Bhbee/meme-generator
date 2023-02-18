@@ -22,3 +22,6 @@ main{
     border: none;
     cursor: pointer;
 }
+.meme-img{
+    max-width: 100%;
+}
